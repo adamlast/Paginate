@@ -12,7 +12,6 @@
     "authors": [
         {
             "name": "Adam",
-            "email": "adam.last@hotmail.com"
         }
     ],
     "autoload": {
