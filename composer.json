@@ -1,6 +1,6 @@
 {
     "name": "adamlast/paginate",
-    "description": "Pagination control structure for traversable lists or collections",
+    "description": "Pagination classes for traversable lists or collections",
     "type": "library",
     "require": {
         "php": ">=8"
