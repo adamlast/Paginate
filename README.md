@@ -25,7 +25,7 @@ There are two component classes:
 
 ## Simple Example
 
-```
+```php
 use AdamLast\Paginate\PaginationService;
 
 $array = ['Dingo', 'Scorpion', 'Snake', 'Shark', 'Jellyfish',
