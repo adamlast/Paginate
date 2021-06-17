@@ -1,6 +1,6 @@
 # Paginate
 
-Simple Pagination library implemented to work on any Traversable PHP collection. This means arrays or any classes that implement the Iterator and Countable interfaces.
+Simple Pagination library designed to work on any [Traversable](https://www.php.net/manual/en/class.traversable.php) PHP collection. This can be an array or any class that implement the Iterator and Countable interfaces.
 
 ## Installation
 
@@ -9,7 +9,7 @@ You can install Paginate using Composer. To do that simply require the package i
 ```json
 {
     "require": {
-        "adamlast/Paginate": "0.1"
+        "adamlast/Paginate": "^0.1.0"
     }
 }
 ```
@@ -43,7 +43,7 @@ foreach ($page as $k => $item) {
 }
 ```
 
-## Current Todo list
+## Current To-do list
 1. PaginationService should support array_slice if possible.
 2. Parameter checking
 3. Exceptions and unit testing of exceptions
