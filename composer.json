@@ -2,6 +2,7 @@
     "name": "adamlast/paginate",
     "description": "Pagination classes for traversable lists or collections",
     "type": "library",
+    "license": "MIT",
     "require": {
         "php": ">=8"
     },
